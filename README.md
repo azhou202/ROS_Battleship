@@ -11,12 +11,3 @@ roslaunch ros_battleship start_game.launch
 Central to the game are Player objects. Each Player contains a board that contains their ships and a board that contains the hits and misses of the shots they fired. Additionally, each player keeps track of their currrent score.   
 The Players interact with each other through the game.py file. This file operates as a state machine that allows the Players to take turns sending and receving shots. 
 
-General Structure  
-**General_Structure**
-(https://ibb.co/ZV4CHbv)  
-Player Object Structure  
-**Player_Object_Structure**  
-(https://ibb.co/KN9ZFSz)   
-Gameplay  
-**Gameplay**  
-![Gameplay] (https://ibb.co/TczQbCY)
