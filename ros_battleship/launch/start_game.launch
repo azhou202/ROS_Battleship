@@ -1,0 +1,5 @@
+<launch>
+    <node name='player_manager' pkg='ros_battleship' type='Player.py' ns='player1' output="screen"></node>
+    <node name='player_manager' pkg='ros_battleship' type='Player.py' ns='player2' output="screen"></node>
+    <node name="game" pkg='ros_battleship' type="game.py" output="screen"></node>
+</launch>
