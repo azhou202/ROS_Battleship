@@ -19,4 +19,4 @@ Player Object Structure
 (https://ibb.co/KN9ZFSz)   
 Gameplay  
 **Gameplay**  
-![Gameplay](https://ibb.co/TczQbCY)
+![Gameplay] (https://ibb.co/TczQbCY)
